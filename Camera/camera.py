@@ -19,13 +19,8 @@ https://github.com/RoboticsURJC-students/2016-tfg-david-pascual
 __author__ = "naxvm"
 __date__ = "-"
 
-import sys
 import threading
 import traceback
-import yaml
-
-import comm
-import config
 import cv2
 import numpy as np
 
